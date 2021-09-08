@@ -1,0 +1,9 @@
+{
+	"ip":"drukcraft.aternos.me:35481",
+	"port": 25710,
+	"name": "ninja",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register laddu1 laddu1",
+	"login-cmd":"/login laddu1"
+}
